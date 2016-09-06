@@ -1,0 +1,27 @@
+{
+  "name": "osmansheikh",
+  "version": "1.0.0",
+  "description": "My personal website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/OsmnShkh/osmansheikh.com.git"
+  },
+  "author": "Osman Sheikh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OsmnShkh/osmansheikh.com/issues"
+  },
+  "homepage": "https://github.com/OsmnShkh/osmansheikh.com#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-bower": "0.0.13",
+    "gulp-notify": "^2.2.0",
+    "gulp-ruby-sass": "^2.1.0",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.15.1"
+  }
+}
